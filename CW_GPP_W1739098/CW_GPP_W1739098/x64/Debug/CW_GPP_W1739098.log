@@ -1,0 +1,3 @@
+﻿  CW_GPP_W1739098.cpp
+C:\Users\nahid\source\repos\CW_GPP_W1739098\CW_GPP_W1739098\CW_GPP_W1739098.cpp(209,9): warning C4834: il valore restituito della funzione con attributo 'nodiscard' verrà rimosso
+  CW_GPP_W1739098.vcxproj -> C:\Users\nahid\source\repos\CW_GPP_W1739098\x64\Debug\CW_GPP_W1739098.exe
